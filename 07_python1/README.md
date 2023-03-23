@@ -14,7 +14,7 @@
 
   **51**
 ### Ответ:
-Файл в репозитории Python test_1.py
+Файл в репозитории Education_Netology/07_python1 test_1.py
 
 - второй - прибавляет к параметру единицу как число.
 
@@ -24,7 +24,7 @@
 
   **6**
 ### Ответ:
-Файл в репозитории Python test_2.py
+Файл в репозитории Education_Netology/07_python1 test_2.py
 
 
 ## Задание 2
@@ -40,7 +40,7 @@
 **Total: 22**  
 
 ### Ответ:
-Файл в репозитории Python test_dir.py
+Файл в репозитории Education_Netology/07_python1 test_dir.py
 
 ## Задание 3
 
@@ -56,7 +56,7 @@
 **c:\windows1 - not exist**  
 
 ### Ответ:
-Файл в репозитории Python test_dir.py
+Файл в репозитории Education_Netology/07_python1 test_dir.py
 
 ## Задание 4* (необязательное)
 
@@ -86,4 +86,4 @@ test
 ```
 
 ### Ответ:
-Файл в репозитории Python script.py
+Файл в репозитории Education_Netology/07_python1 script.py
