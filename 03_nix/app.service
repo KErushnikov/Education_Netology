@@ -1,0 +1,13 @@
+[Unit]
+Description=TestService
+After=network.target
+After=auditd.service
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/app
+ExecStart=/opt/app/server.bin
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
