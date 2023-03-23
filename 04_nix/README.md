@@ -16,3 +16,4 @@
 
 ## Ответ
 fear
+https://github.com/KErushnikov/Education_Netology/blob/main/04_nix/Screenshot.JPG
