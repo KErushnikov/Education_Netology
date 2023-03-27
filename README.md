@@ -24,6 +24,12 @@ https://github.com/KErushnikov/Education_Netology/blob/main/03_nix/
 https://github.com/KErushnikov/Education_Netology/blob/main/04_nix/
 </details>
 
+## 05_shell
+<details>
+<summary>Домашнее задание к занятию «Использование командных оболочек 1. Bash»</summary>
+https://github.com/KErushnikov/Education_Netology/blob/main/05_shell/
+</details>
+
 ## 07_python1
 <details>
 <summary>Домашнее задание к занятию «Язык Python. Основы.»</summary>
