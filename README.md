@@ -30,6 +30,12 @@ https://github.com/KErushnikov/Education_Netology/blob/main/04_nix/
 https://github.com/KErushnikov/Education_Netology/blob/main/05_shell/
 </details>
 
+## 06_shell
+<details>
+<summary>Домашнее задание к занятию «Использование командных оболочек 2. PowerShell»</summary>
+https://github.com/KErushnikov/Education_Netology/blob/main/06_shell/
+</details>
+
 ## 07_python1
 <details>
 <summary>Домашнее задание к занятию «Язык Python. Основы.»</summary>
