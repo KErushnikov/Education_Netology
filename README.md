@@ -41,3 +41,9 @@ https://github.com/KErushnikov/Education_Netology/blob/main/06_shell/
 <summary>Домашнее задание к занятию «Язык Python. Основы.»</summary>
 https://github.com/KErushnikov/Education_Netology/tree/main/07_python1
 </details>
+
+## 08_python2
+<details>
+<summary>Домашнее задание к занятию «Язык Python. Работа с сетью.»</summary>
+https://github.com/KErushnikov/Education_Netology/tree/main/08_python2
+</details>
