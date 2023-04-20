@@ -53,3 +53,9 @@ https://github.com/KErushnikov/Education_Netology/tree/main/08_python2
 <summary>Домашнее задание к занятию «Язык программирования Python. Криптография.»</summary>
 https://github.com/KErushnikov/Education_Netology/tree/main/09_python3
 </details>
+
+## 10_c
+<details>
+<summary>Домашнее задание к занятию «Язык С и программные уязвимости»</summary>
+https://github.com/KErushnikov/Education_Netology/tree/main/10_c
+</details>
