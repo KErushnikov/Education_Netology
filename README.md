@@ -65,3 +65,9 @@ https://github.com/KErushnikov/Education_Netology/tree/main/10_c
 <summary>Домашнее задание к занятию «Статический и динамический анализ»</summary>
 https://github.com/KErushnikov/Education_Netology/tree/main/11_sd
 </details>
+
+## 12_reverse
+<details>
+<summary>Домашнее задание к занятию «Реверс-инжиниринг»</summary>
+https://github.com/KErushnikov/Education_Netology/tree/main/12_reverse
+</details>
