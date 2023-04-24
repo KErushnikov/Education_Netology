@@ -59,3 +59,9 @@ https://github.com/KErushnikov/Education_Netology/tree/main/09_python3
 <summary>Домашнее задание к занятию «Язык С и программные уязвимости»</summary>
 https://github.com/KErushnikov/Education_Netology/tree/main/10_c
 </details>
+
+## 11_sd
+<details>
+<summary>Домашнее задание к занятию «Статический и динамический анализ»</summary>
+https://github.com/KErushnikov/Education_Netology/tree/main/11_sd
+</details>

@@ -1,0 +1,9 @@
+rule rule2
+{
+
+strings:
+        $a = "cmd.exe"
+        $b = {f5 f8 52 76 c9 a6 51 9f 73 37 8a 27 a9 bf 90 f2 }
+condition:
+        $a and $b
+}
