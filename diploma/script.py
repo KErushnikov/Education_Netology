@@ -54,11 +54,11 @@ def attack(targ, po, id):
 	except OSError: pass
 def main():
 	global target, port, start
-	print banner
+	print(banner)
 	try:
 		target = sys.argv[1]
 	except:
-		print usage
+		print(usage)
 		sys.exit()
 	try:
 		port = int(sys.argv[2])
@@ -95,7 +95,7 @@ def timer():
                 else:
                         subprocess.Popen("pkill ftp", shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
                         t = threading.Thread(target=loop, args=(target, port,))
-			t.start()
+                        t.start()
                         break
 
 main()
