@@ -1,5 +1,10 @@
 # Erushnikov K.S. Netology Homeworks. Start from ibos-homework
 
+## diploma
+<details>Курсовая работа "Защищённый контур" (Профессия Специалист по информационной безопасности)</summary>
+https://github.com/KErushnikov/Education_Netology/blob/main/diploma/
+</details>
+
 ## 01_win
 <details>
 <summary>Домашнее задание к занятию «ОС Windows (часть 1)»</summary>
